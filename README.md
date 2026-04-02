@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  I'm Mark, a 22-year-old developer from the Netherlands 🇳🇱.<br>
+  I'm Mark, a 23-year-old developer from the Netherlands 🇳🇱.<br>
   Passionate about <strong>IT, development, automation, and modern web technologies</strong>.  
   I've worked on various projects, including apps, mobile apps, websites, custom-built web apps, scripts, and fully engineered backends developed completely in-house.
 </p>
@@ -51,5 +51,5 @@ Building automated workflows, API integrations, and AI-powered systems that enha
 
 <h2>📫 Contact Me</h2>
 <p>
-  📧 Email: <a href="mailto:mark@mvvdiensten.nl">mark@mvvdiensten.nl</a>
+  📧 Email: <a href="mailto:mark@gibby.it">mark@gibby.it</a>
 </p>
